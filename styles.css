@@ -1,0 +1,75 @@
+body {
+  background: rgb(140, 140, 140);
+  background: linear-gradient(222deg, rgba(140, 140, 140, 1) 0%, rgba(98, 98, 98, 1) 12%, rgba(43, 43, 43, 1) 34%, rgba(0, 0, 0, 1) 78%);
+  margin: 0px;
+  text-align: center;
+  font-family: Arial, serif;
+}
+
+h3 {
+  color: #fff;
+}
+
+.top-container {
+  padding-top: 50px;
+  position: absolute;
+  background-color: transparent;
+  right: 600px;
+}
+
+h1 {
+  color: #BF1363;
+  margin: 0px;
+  margin-top: 0px;
+  font-family: 'Courgette', cursive;
+  font-size: 64px;
+}
+
+h2 {
+  color: #FFF;
+  margin: 0px;
+  margin-top: 0px;
+  font-family: 'Courgette', cursive;
+  font-size: 35px;
+
+}
+
+p {
+  color: #f5eded;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+  margin: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 700px;
+  top: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 250px;
+  bottom: 430px;
+}
+
+.mountain {}
+
+
+.Programming-img{
+  height: 300px;
+  width: 300px;
+  border-radius: 27px;
+  text-align: left;
+  margin: 10px;
+
+}
+
+.Scuba-img{
+  height: 300px;
+  width: 300px;
+  border-radius: 27px;
+  text-align: left;
+  margin: 10px;
+
+}
